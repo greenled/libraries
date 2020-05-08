@@ -422,6 +422,12 @@
     "description": "Reactive Extensions Library for JavaScript",
     "language": "JavaScript"
   },
+  "RxJava": {
+    "imports": ["io.reactivex"],
+    "technologies": ["Web Development"],
+    "description": "Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM",
+    "language": "Java"
+  },
   "Semantic UI": {
     "imports": ["semantic.min.css", "semantic.css"],
     "technologies": ["Web Development", "SPA"],
